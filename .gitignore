@@ -1,0 +1,28 @@
+# Build & dist
+build/
+dist/
+dmg_temp/
+*.dmg
+
+# PyInstaller
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+venv/
+.venv/
+env/
+
+# Icon build temp
+assets/EDCBookCaster.iconset/
+
+# IDE / OS
+.DS_Store
+.idea/
+*.swp
+*.swo
+Thumbs.db
