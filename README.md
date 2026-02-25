@@ -67,7 +67,7 @@ On Windows use `python`, on macOS usually `python3`.)
 
 ### 方式二：macOS 安装包 / macOS app
 
-- **DMG**：在仓库的 [Releases](https://github.com/你的用户名/edcbook-caster/releases) 下载 `EDCBook_Caster_1.0.dmg`，打开后把应用拖入「应用程序」。  
+- **DMG**：在仓库的 [Releases](https://github.com/eazylee30/edcbook-caster/releases) 下载 `EDCBook_Caster_1.0.dmg`，打开后把应用拖入「应用程序」。  
   Download `EDCBook_Caster_1.0.dmg` from Releases and drag the app into Applications.
 
 - **自行构建**：在项目根目录执行  
@@ -101,5 +101,5 @@ Use in accordance with 梦西游啊游’s firmware and protocol terms. This Cas
 
 ---
 
-**推送到 GitHub**：在 GitHub 新建仓库（如 `edcbook-caster`）后，将本 README 中「你的用户名」替换为你的 GitHub 用户名，再执行 `git init && git add . && git commit -m "Initial commit" && git remote add origin https://github.com/你的用户名/edcbook-caster.git && git push -u origin main`（若默认分支为 `master` 请改为 `master`）。  
-**Publish to GitHub**: Create a new repo (e.g. `edcbook-caster`), replace “你的用户名” in this README with your GitHub username, then run the git commands above (use `master` if that’s your default branch).
+**推送到 GitHub**：在 GitHub 新建仓库（如 `edcbook-caster`）后，在项目目录执行：`git init && git add . && git commit -m "Initial commit" && git remote add origin https://github.com/eazylee30/edcbook-caster.git && git branch -M main && git push -u origin main`。  
+**Publish to GitHub**: Create a new repo (e.g. `edcbook-caster`), then run: `git init && git add . && git commit -m "Initial commit" && git remote add origin https://github.com/eazylee30/edcbook-caster.git && git branch -M main && git push -u origin main`.
