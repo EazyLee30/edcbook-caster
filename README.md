@@ -14,10 +14,7 @@
 
 ## 演示视频 / Demo
 
-<video src="xhs.mp4" controls width="640"></video>
-
-> 若上方视频无法加载，可下载 [xhs.mp4](xhs.mp4) 本地观看。  
-> If the video doesn’t load, download [xhs.mp4](xhs.mp4) to watch locally.
+<video src="demo.mp4" controls width="640"></video>
 
 ---
 
