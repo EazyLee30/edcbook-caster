@@ -14,7 +14,7 @@
 
 ## 演示视频 / Demo
 
-<video src="demo.mp4" controls width="640"></video>
+[![Watch the video](https://img.youtube.com/vi/6FFqZJlcpr4/maxresdefault.jpg)](https://youtu.be/6FFqZJlcpr4)
 
 ---
 
