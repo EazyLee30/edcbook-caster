@@ -14,7 +14,7 @@
 
 ## 演示视频 / Demo
 
-[![Watch the video](https://img.youtube.com/vi/6FFqZJlcpr4/maxresdefault.jpg)](https://youtu.be/6FFqZJlcpr4)
+[![EDCBook Caster 演示 / Demo](https://img.youtube.com/vi/6FFqZJlcpr4/0.jpg)](https://www.youtube.com/watch?v=6FFqZJlcpr4)
 
 ---
 
